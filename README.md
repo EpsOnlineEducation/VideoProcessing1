@@ -1,2 +1,1 @@
-# LiveVideoToSketchCartoon
-This is a Small Video Processing Project
+# This is a Small Video Processing Project
